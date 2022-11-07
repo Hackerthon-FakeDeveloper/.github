@@ -8,5 +8,12 @@
 * Webtoon-Web: 모두의 웹툰 웹
 * Webtoon-Data: 서비스 시연에 필요한 더미데이터 관리
 
+## Screenshot
+
+<div align="center">
+  <img src = "./screenshot/main.png" width = "50%"><img src = "./screenshot/page.png" width = "50%">
+</div>
+
+
 ## Member
 <b>경기대학교 - 이대현<b>, 이원우, 신종욱, 김관식
