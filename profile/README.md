@@ -12,6 +12,8 @@
 
 ## Repositories
 
+- Documentation: 프로젝트 개요 및 기획   
+- Preview: 시나리오 및 시연   
 - Webtoon-Backend: 모두의 웹툰 백엔드서버
 - Webtoon-Web: 모두의 웹툰 웹
 - Webtoon-Data: 서비스 시연에 필요한 더미데이터 관리
@@ -19,8 +21,7 @@
 ## Member
 
 <b>경기대학교 (2022)</b>   
-Back-end: 이대현, 이원우   <img width="487" alt="image" src="https://user-images.githubusercontent.com/39869096/201327831-896e4e3c-8a38-418c-9c00-da447f89fea0.png">
-
+Back-end: 이대현, 이원우   
 Front-end: 김관식  
 Data: 신종욱   
 
