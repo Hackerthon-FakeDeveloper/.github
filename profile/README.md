@@ -1,21 +1,14 @@
 # 모두의 웹툰
 
-<a href="https://securecoding.software"/><img src="https://img.shields.io/badge/소개딩%20해커톤%20시즌4-최우수-9cf"/></a> <br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mariadb-003545?style=flat&logo=Mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Mariadb-003545?style=flat&logo=Mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>   
+<a href="https://securecoding.software"/><img src="https://img.shields.io/badge/소개딩%20해커톤%20시즌4-최우수-9cf"/></a>
 
-1. 웹툰인사이트(https://www.webtooninsight.co.kr) 등 창작자, 비즈니스 중심의 플랫폼은 존재하나 사용자 중심의 플랫폼은 다소 빈약하다.
-2. 웹툰이 제공되는 플랫폼에 독립적인 리뷰 시스템을 제공한다.
-3. 기존의 플랫폼에 비해 강화된 큐레이팅 시스템을 제공한다.
-4. 전체 사용자 수에서 연령대, 성별 등 각 유형별 사용자가 차지하는
-비율을 보여준다.
-5. 시리즈 등 관련 작품에 대한 정보를 제공한다.
-6. 연출, 스토리, 작화 등 카테고리별로 평점을 부여 및 조회할 수 있는
-시스템을 제공한다.
+
+- 웹툰이 제공되는 플랫폼에 독립적인 리뷰 시스템을 제공한다.
+- 기존의 플랫폼에 비해 강화된 큐레이팅 시스템을 제공한다.
+- 전체 사용자 수에서 연령대, 성별 등 각 유형별 사용자가 차지하는 비율을 보여준다.
+- 시리즈 등 관련 작품에 대한 정보를 제공한다.
+- 연출, 스토리, 작화 등 카테고리별로 평점을 부여 및 조회할 수 있는 시스템을 제공한다.
 
 ## Repositories
 
@@ -25,11 +18,11 @@
 
 ## Member
 
-<b>경기대학교 (2022)</b><br>
-Back-end: 이대현, 이원우<br>
-Front-end: 김관식<br>
-Data: 신종욱
+<b>경기대학교 (2022)</b>   
+Back-end: 이대현, 이원우   <img width="487" alt="image" src="https://user-images.githubusercontent.com/39869096/201327831-896e4e3c-8a38-418c-9c00-da447f89fea0.png">
 
+Front-end: 김관식  
+Data: 신종욱   
 
 ## Screenshot
 
