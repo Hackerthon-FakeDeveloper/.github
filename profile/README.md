@@ -31,3 +31,5 @@ Data: 신종욱
   <img src = "/profile/screenshot/main.png" width = "50%"><img src = "/profile/screenshot/page.png" width = "50%">
 </div>
 
+## License
+<a href="https://www.flaticon.com/free-icons/cube" title="cube icons">Cube icons(Team Logo) created by Freepik - Flaticon</a>
