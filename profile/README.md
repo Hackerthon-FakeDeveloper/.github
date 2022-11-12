@@ -14,9 +14,9 @@
 
 - [Documentation](https://github.com/SCHackerthon-S4-FakeDeveloper/Documentation): 프로젝트 개요 및 기획   
 - [Preview](https://github.com/SCHackerthon-S4-FakeDeveloper/Preview): 시나리오 및 시연   
-- Webtoon-Backend: 모두의 웹툰 백엔드서버
-- Webtoon-Web: 모두의 웹툰 웹
-- Webtoon-Data: 서비스 시연에 필요한 더미데이터 관리
+- Webtoon-Backend: 모두의웹툰 백엔드
+- Webtoon-Web: 모두의웹툰 웹
+- Webtoon-Data: 시연에 필요한 더미데이터 생성 및 관리
 
 ## Member
 
@@ -27,7 +27,9 @@ Data: 신종욱
 
 ## Screenshot
 
-<img src = "/profile/screenshot/main.png" width = "50%">
+<div align="center">
+  <img src = "/profile/screenshot/main.png" width = "50%"><img src = "/profile/screenshot/page.png" width = "50%">
+</div>
 
 ## License
 <a href="https://www.flaticon.com/free-icons/cube" title="cube icons">Cube icons(Team Logo) created by Freepik - Flaticon</a>
