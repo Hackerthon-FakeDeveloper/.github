@@ -1,7 +1,13 @@
 # 모두의 웹툰
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Mariadb-003545?style=flat&logo=Mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>   
-<a href="https://securecoding.software"/><img src="https://img.shields.io/badge/소개딩%20해커톤%20시즌4-최우수-9cf"/></a>
+![Total Commit](https://img.shields.io/badge/Total%20Commit-199%2B-green)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwindcss&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
+![MariaDB](https://img.shields.io/badge/Mariadb-003545?style=flat&logo=Mariadb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)  
+[![소개딩](https://img.shields.io/badge/소개딩%20해커톤%20시즌4-최우수-9cf)](https://github.com/SCHackerthon-FakeDeveloper)
 
 - [소프트웨어 개발보안 시큐어코딩 해커톤](https://securecoding.software)
 - 웹툰이 제공되는 플랫폼에 독립적인 리뷰 시스템을 제공한다.
