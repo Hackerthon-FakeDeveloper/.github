@@ -9,6 +9,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)  
 [![소개딩](https://img.shields.io/badge/소개딩%20해커톤%20시즌4-최우수-9cf)](https://github.com/SCHackerthon-FakeDeveloper)
 
+<img src = "/profile/certificate/certificate.png" >
+
 - [소프트웨어 개발보안 시큐어코딩 해커톤](https://securecoding.software)
 - 웹툰이 제공되는 플랫폼에 독립적인 리뷰 시스템을 제공한다.
 - 기존의 플랫폼에 비해 강화된 큐레이팅 시스템을 제공한다.
