@@ -20,9 +20,9 @@
 
 - [Documentation](https://github.com/SCHackerthon-S4-FakeDeveloper/Documentation): 프로젝트 개요 및 기획   
 - [Preview](https://github.com/SCHackerthon-S4-FakeDeveloper/Preview): 시나리오 및 시연   
-- Webtoon-Web: 모두의웹툰 웹
-- Webtoon-Backend: 모두의웹툰 백엔드
-- Webtoon-Data: 더미데이터 생성 및 관리
+- [Webtoon-Web](https://github.com/Hackerthon-FakeDeveloper/Webtoon-Web): 모두의웹툰 웹
+- [Webtoon-Backend](https://github.com/Hackerthon-FakeDeveloper/Webtoon-Server): 모두의웹툰 백엔드
+- [Webtoon-Data](https://github.com/Hackerthon-FakeDeveloper/Webtoon-Data): 더미데이터 생성 및 관리
 
 ## Member
 
