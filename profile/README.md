@@ -26,14 +26,14 @@
 - [Webtoon-Backend](https://github.com/Hackerthon-FakeDeveloper/Webtoon-Server): 모두의웹툰 백엔드
 - [Webtoon-Data](https://github.com/Hackerthon-FakeDeveloper/Webtoon-Data): 더미데이터 생성 및 관리
 
-## Member
+## Members
 
 <b>경기대학교 (2022)</b>   
 Front-end: 김관식  
 Back-end: 이대현, 이원우   
 Data: 신종욱   
 
-## Screenshot
+## Preview
 
 <div align="center">
   <img src = "/profile/screenshot/main.png" width = "50%"><img src = "/profile/screenshot/page.png" width = "50%">
