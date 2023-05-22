@@ -1,6 +1,6 @@
 # 모두의 웹툰
 
-![Total Commit](https://img.shields.io/badge/Total%20Commit-200+%2B-green)
+![Total Commit](https://img.shields.io/badge/Total%20Commit-200%2B-green)
 [![소개딩](https://img.shields.io/badge/소개딩%20해커톤%20시즌4-최우수-9cf)](https://github.com/SCHackerthon-FakeDeveloper)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwindcss&logoColor=white)
