@@ -1,5 +1,6 @@
 # 모두의 웹툰
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHackerthon-FakeDeveloper&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Total Commit](https://img.shields.io/badge/Total%20Commit-200%2B-green)
 [![소개딩](https://img.shields.io/badge/소개딩%20해커톤%20시즌4-최우수-9cf)](https://github.com/SCHackerthon-FakeDeveloper)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
@@ -22,13 +23,13 @@
 
 - [Documentation](https://github.com/SCHackerthon-S4-FakeDeveloper/Documentation): 기획
 - [Preview](https://github.com/SCHackerthon-S4-FakeDeveloper/Preview): 시연
-- [Webtoon-Web](https://github.com/Hackerthon-FakeDeveloper/Webtoon-Web): 모두의웹툰 웹
-- [Webtoon-Server](https://github.com/Hackerthon-FakeDeveloper/Webtoon-Server): 모두의웹툰 백엔드
+- [Webtoon-Web](https://github.com/Hackerthon-FakeDeveloper/Webtoon-Web): 웹사이트
+- [Webtoon-Server](https://github.com/Hackerthon-FakeDeveloper/Webtoon-Server): 백엔드
 - [Webtoon-Data](https://github.com/Hackerthon-FakeDeveloper/Webtoon-Data): 데이터 생성 및 관리
 
 ## Members
 
-<b>경기대학교 (2022)</b>   
+<b>경기대학교 2022</b>   
 Web: 김관식  
 Server: 이대현, 이원우   
 Data: 신종욱   
