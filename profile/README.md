@@ -27,7 +27,6 @@
 ## Repositories
 
 - [Documentation](https://github.com/SCHackerthon-S4-FakeDeveloper/Documentation): 기획
-- [Preview](https://github.com/SCHackerthon-S4-FakeDeveloper/Preview): 시연
 - [Webtoon-Web](https://github.com/Hackerthon-FakeDeveloper/Webtoon-Web): 웹사이트
 - [Webtoon-Server](https://github.com/Hackerthon-FakeDeveloper/Webtoon-Server): 백엔드, 서버
 - [Webtoon-Data](https://github.com/Hackerthon-FakeDeveloper/Webtoon-Data): 데이터 관리
